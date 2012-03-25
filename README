@@ -1,2 +1,4 @@
 Nothing too far out of the ordinary here, since I'm a programmer, not an electronics whiz. But I know enough electronics with which to build robots, and these are some of my attempts at PCB design.
 
+As of 3/25/12, I've decided that all of my circuits will be designed in EAGLE, since SparkFun has a gigantic EAGLE library and the interface is not significantly worse than KiCAD.
+
