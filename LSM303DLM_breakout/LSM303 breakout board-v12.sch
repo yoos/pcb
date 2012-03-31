@@ -1723,8 +1723,8 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="C2" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.1uF"/>
 <part name="GND3" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$5" library="SparkFun" deviceset="CREATIVE_COMMONS" device=""/>
-<part name="R3" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="4.7k"/>
-<part name="R4" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="4.7k"/>
+<part name="R3" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="4.7k"/>
+<part name="R4" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="4.7k"/>
 <part name="P+3" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="P+6" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
 <part name="P+7" library="SparkFun-Aesthetics" deviceset="3.3V" device=""/>
