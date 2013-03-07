@@ -10804,7 +10804,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <instance part="C2" gate="G$1" x="40.64" y="15.24"/>
 <instance part="C3" gate="G$1" x="137.16" y="55.88"/>
 <instance part="C1" gate="G$1" x="60.96" y="20.32"/>
-<instance part="JP1" gate="G$1" x="104.14" y="119.38" rot="R180"/>
+<instance part="JP1" gate="G$1" x="104.14" y="116.84" rot="MR0"/>
 </instances>
 <busses>
 </busses>
@@ -10925,8 +10925,8 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="IN1"/>
+<pinref part="JP1" gate="G$1" pin="4"/>
 <wire x1="73.66" y1="121.92" x2="99.06" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="IN2" class="0">
@@ -10935,9 +10935,9 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <wire x1="132.08" y1="119.38" x2="127" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 <segment>
+<pinref part="JP1" gate="G$1" pin="3"/>
 <pinref part="U1" gate="G$1" pin="IN2"/>
-<wire x1="73.66" y1="119.38" x2="99.06" y2="119.38" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="2"/>
+<wire x1="99.06" y1="119.38" x2="73.66" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="IN3" class="0">
@@ -10947,8 +10947,8 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="IN3"/>
+<pinref part="JP1" gate="G$1" pin="2"/>
 <wire x1="73.66" y1="116.84" x2="99.06" y2="116.84" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="3"/>
 </segment>
 </net>
 <net name="IN4" class="0">
@@ -10957,9 +10957,9 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <wire x1="132.08" y1="93.98" x2="127" y2="93.98" width="0.1524" layer="91"/>
 </segment>
 <segment>
+<pinref part="JP1" gate="G$1" pin="1"/>
 <pinref part="U1" gate="G$1" pin="IN4"/>
-<wire x1="73.66" y1="114.3" x2="99.06" y2="114.3" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="4"/>
+<wire x1="99.06" y1="114.3" x2="73.66" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="OUT1" class="0">
