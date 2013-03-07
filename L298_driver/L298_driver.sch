@@ -10731,7 +10731,7 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="U$2" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="P+1" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
-<part name="R2" library="resistor" deviceset="R-US_" device="R0402" value="249R"/>
+<part name="R2" library="resistor" deviceset="R-US_" device="R0402" value="165R"/>
 <part name="LED_A" library="yoos" deviceset="LRTB_R98G" device=""/>
 <part name="JP2" library="SparkFun-Connectors" deviceset="M03" device="-SCREW-5MM"/>
 <part name="U$3" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
@@ -10744,9 +10744,9 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <part name="GND5" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND6" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="LED_B" library="yoos" deviceset="LRTB_R98G" device=""/>
-<part name="R3" library="resistor" deviceset="R-US_" device="R0402" value="249R"/>
-<part name="R4" library="resistor" deviceset="R-US_" device="R0402" value="249R"/>
-<part name="R5" library="resistor" deviceset="R-US_" device="R0402" value="249R"/>
+<part name="R3" library="resistor" deviceset="R-US_" device="R0402" value="165R"/>
+<part name="R4" library="resistor" deviceset="R-US_" device="R0402" value="165R"/>
+<part name="R5" library="resistor" deviceset="R-US_" device="R0402" value="165R"/>
 <part name="OUT_B" library="SparkFun-Connectors" deviceset="M02" device="5MM"/>
 <part name="D2" library="diode" deviceset="CGRM400*-G" device="" technology="1"/>
 <part name="D3" library="diode" deviceset="CGRM400*-G" device="" technology="1"/>
